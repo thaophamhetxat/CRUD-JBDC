@@ -1,0 +1,16 @@
+models/Customer.java
+ models.Customer
+models/UserPerson.java
+ models.UserPerson
+services/UserService.java
+ services.UserService
+dao/ConnectMySQL.java
+ dao.ConnectMySQL
+controller/CustomerServlet.java
+ controller.CustomerServlet
+controller/LoginServlet.java
+ controller.LoginServlet
+services/CustomerService.java
+ services.CustomerService
+dao/ManagerCustomer.java
+ dao.ManagerCustomer
